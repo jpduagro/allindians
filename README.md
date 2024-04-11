@@ -5,3 +5,5 @@ O Azure possui ferramentas poderosas e extremamente versátil para exploração 
 O passo-a-passo Explore an Azure AI Search index (UI), encontrado no domínio https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#learn-more, exemplificou como uma pesquisa, ou melhor, mineração de dados pode ocorrer. De forma simples, pode-se experenciar o poder dessas ferramentas.
 
 No ensaio, foram apresentados dados de uma rede de cafés fictícia, a Fourth Coffee. Os arquivos são avalições dos clientes feita em toda a rede, podendo ser qualquer cidade que estão presentes. Usando as 3 ferramentas supracitadas, é possível, após as configurações, fazer pesquisas como, quais localidades respondeu ou quais locais tiveram uma avaliação negativa.
+
+Contudo, este projeto e esta instrução presente no domínio citado são conteúdos introdutórios para apresentar o Azure AI. Ter esse tipo de ferramenta disponível de forma facilitada, sem a necessidade de programação, amplia o potencial do número de usuários que a podem explorar.
